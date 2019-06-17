@@ -1,0 +1,20 @@
+{
+  "name": "@crypho/prettier",
+  "version": "1.0.0",
+  "description": "Cryypho prettier configuration",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Crypho/crypho-prettier.git"
+  },
+  "keywords": [
+    "prettier",
+    "Crypho"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crypho/crypho-prettier/issues"
+  },
+  "homepage": "https://github.com/Crypho/crypho-prettier#readme"
+}
