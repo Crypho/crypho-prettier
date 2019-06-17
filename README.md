@@ -8,6 +8,6 @@ To use it just add a `prettier` key to you `package.json` file:
 {
   "name": "crypho.my-package",
   "version": "1.0.0",
-  "prettier": "crypho-prettier-config"
+  "prettier": "@crypho/prettier"
 }
 ```

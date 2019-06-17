@@ -1,5 +1,5 @@
 {
-  "name": "@crypho/prettier",
+  "name": "crypho-prettier",
   "version": "1.0.0",
   "description": "Cryypho prettier configuration",
   "main": "index.json",
