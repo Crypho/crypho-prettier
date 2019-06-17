@@ -7,7 +7,7 @@ To use it just add a `prettier` key to you `package.json` file:
 ```json
 {
   "name": "crypho.my-package",
-  "Version": "1.0.0",
+  "version": "1.0.0",
   "prettier": "crypho-prettier-config"
 }
 ```
