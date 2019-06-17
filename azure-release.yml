@@ -12,6 +12,6 @@ pool:
 steps:
   - task: Npm@1
     inputs:
-      commands: publish
+      command: publish
       publishRegistry: useExternalRegistry
-      publishEndpoint: npmjs
+      publishEndpoint: https://registry.npmjs.org
