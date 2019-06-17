@@ -1,7 +1,7 @@
 {
   "name": "crypho-prettier",
   "version": "1.0.0",
-  "description": "Cryypho prettier configuration",
+  "description": "Crypho prettier configuration",
   "main": "index.json",
   "repository": {
     "type": "git",
